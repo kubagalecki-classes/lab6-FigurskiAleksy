@@ -15,11 +15,11 @@ std::vector< char > foo(std::list< Human >& people)
         y.birthday();
         if (y.isMonster() == true)
         {
-        return 'n'
+        return 'n';
         }
         else
         {
-        return 'y'
+        return 'y';
         }
     };
 
